@@ -3,20 +3,10 @@
 <p align="center">
 <sub>hes so lovely to me</sub>
 
+<br>
+<br>
+
 </p>
-
-
-<!--
-**DlRK-STRlDER/DlRK-STRlDER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img width="50" height="60"
+src="https://files.catbox.moe/ia3we1.png" />
